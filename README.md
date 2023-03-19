@@ -49,8 +49,8 @@ I write and learn to write code every day, I hope to be useful in some way.
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
 📈 Github-Stats:<br/>
-![git-hub-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilovehatemyself&theme=blue-green)
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=ilovehatemyself&theme=blue-green)
+![git-hub-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemcow&theme=blue-green)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zemcow&theme=blue-green)
 
 Soon I hope to build my own website where I will store my projects!
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-ilovehatemyself&color=blueviolet)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemcow&color=blueviolet)
