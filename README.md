@@ -3,11 +3,11 @@ I started my journey in 2019.
 I write and learn to write code every day, I hope to be useful in some way.
 
 📈 Github-Stats:<br/>
-![git-hub-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemcow&theme=blue-green)
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zemcow&theme=blue-green)
+![git-hub-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=blue-green)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=zemtsow&theme=blue-green)
 
 Soon I hope to build my own website where I will store my projects!
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemcow&color=blueviolet)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&color=blueviolet)
 
 🚀 Skills:<br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
