@@ -9,7 +9,7 @@ I write and learn to write code every day, I hope to be useful in some way.
 
 Soon I hope to build my own website where I will store my projects!
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&theme=dark)
-![wakatime]([https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg))
+[![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](https://wakatime.com/@b08f8930-084c-4ab7-948b-1f4c8681f36b)
 
 
 🚀 Skills:<br/>
