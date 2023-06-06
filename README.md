@@ -2,11 +2,6 @@ Hello, I'm a front-end developer
 I started my journey in 2019.
 I write and learn to write code every day, I hope to be useful in some way.
 
-📈 Github-Stats:<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zemtsow&show_icons=true&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zemtsow"/>
-
 Soon I hope to build my own website where I will store my projects!
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&theme=dark)
 [![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](https://wakatime.com/@b08f8930-084c-4ab7-948b-1f4c8681f36b)
@@ -24,3 +19,6 @@ UIkit: <a href='https://mui.com/'>MUI</a> / <a href='https://ant.design/'>ANTD</
 
 ![ARCHLINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+📈 Github-Stats:<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=dark"/>
