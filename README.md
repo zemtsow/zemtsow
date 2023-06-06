@@ -12,7 +12,7 @@ Layout: <a href='https://ru.wikipedia.org/wiki/HTML'>HTML5</a><br/>
 Programming language: <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript'>JS</a> / <a href='https://www.typescriptlang.org/'>TS</a><br/>
 Styles: <a href='https://ru.wikipedia.org/wiki/CSS'>CSS</a> / <a href='https://sass-lang.com/'>SCSS</a> / <a href='https://tailwindcss.com/'>Tailwind</a><br/>
 UIkit: <a href='https://mui.com/'>MUI</a> / <a href='https://ant.design/'>ANTD</a> / <a href='https://getbootstrap.com/'>Bootstrap</a><br/>
-
+Development type: <a href='https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4'>Front-end</a>
 
 
 💻 OC:<br/>
