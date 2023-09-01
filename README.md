@@ -4,7 +4,7 @@ I write and learn to write code every day, I hope to be useful in some way.
 
 Soon I hope to build my own website where I will store my projects!
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&theme=dark)
-[![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](https://wakatime.com/@b08f8930-084c-4ab7-948b-1f4c8681f36b)
+[![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](#)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pspeq6xhksfnjreswpk7qmkdfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](#)
 
@@ -26,8 +26,8 @@ Development mode: <a href='https://en.wikipedia.org/wiki/Frontend_and_backend' t
 
 💻 OC:<br/>
 
-![ARCHLINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![ARCHLINUX](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 📈 Github-Stats:<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=dark"/>
