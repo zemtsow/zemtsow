@@ -6,9 +6,6 @@ Soon I hope to build my own website where I will store my projects!
 [![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&theme=dark)](#)
 [![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](#)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pspeq6xhksfnjreswpk7qmkdfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](#)
-
-
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a><br/>
 Styles: <a href='https://ru.wikipedia.org/wiki/CSS' target='_blank'>CSS</a> / <a href='https://sass-lang.com/' target='_blank'>SCSS</a> / <a href='https://tailwindcss.com/' target='_blank'>Tailwind</a><br/>
@@ -31,3 +28,4 @@ Development mode: <a href='https://en.wikipedia.org/wiki/Frontend_and_backend' t
 
 📈 Github-Stats:<br/>
 [![SKILLS_STATISTIC](https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=dark)](#)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pspeq6xhksfnjreswpk7qmkdfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](#)
