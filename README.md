@@ -12,6 +12,7 @@ Styles: <a href='https://ru.wikipedia.org/wiki/CSS' target='_blank'>CSS</a> / <a
 Programming language: <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank'>JS</a> / <a href='https://www.typescriptlang.org/' target='_blank'>TS</a><br/>
 Framework / Library: <a href='https://react.dev/' target='_blank'>REACT</a> / <a href='https://nextjs.org/' target='_blank'>NextJS</a> / <a href="https://reactnative.dev/">React Native</a><br/>
 State Manager: <a href='https://redux.js.org/' target='_blank'>Redux</a> / <a href='https://zustand-demo.pmnd.rs/' target='_blank'>Zustand</a><br/>
+Storage: <a href="https://de.wikipedia.org/wiki/S3" target="_blank">S3</a> / <a href="https://min.io/" target="_blank">Minio</a><br/>
 UIkit: <a href='https://mui.com/' target='_blank'>MUI</a> / <a href='https://ant.design/' target='_blank'>ANTD</a> / <a href='https://getbootstrap.com/' target='_blank'>Bootstrap</a><br/>
 Development mode: <a href='https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4' target='_blank'>Front-end</a>
 
