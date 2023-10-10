@@ -29,5 +29,14 @@ Development mode: <a href='https://en.wikipedia.org/wiki/Frontend_and_backend' t
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 
 📈 Github-Stats:<br/>
-[![SKILLS_STATISTIC](https://github-readme-stats.vercel.app/api/top-langs/?username=zemtsow&theme=dark)](#)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pspeq6xhksfnjreswpk7qmkdfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](#)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=zemtsow&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=zemtsow&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/acrysel,aelia,ai,alestra,anti-user-gateway,audio,char,decorators,editable-commands,eslint-config,evlyn,lycore,orm,resource-webhooks,settings-gateway,skyra,skyra-sharp,skyra.pw,tags,wizard;binarytf/binarytf;discordjs/discord.js,discord.js-modules,builders,collection;novariableglobal/mood,g.shift,one-thousand-years;sapphiredev/framework,pieces,plugins,readme,resource-webhooks,type,utilities" />
+    </td>
+  </tr>
+</table>
+
