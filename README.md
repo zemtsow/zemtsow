@@ -3,8 +3,6 @@ I started my journey in 2019.
 I write and learn to write code every day, I hope to be useful in some way.
 
 Soon I hope to build my own website where I will store my projects!
-[![PROFILE VIEWS](https://komarev.com/ghpvc/?username=your-github-zemtsow&theme=dark)](#)
-[![wakatime](https://wakatime.com/badge/user/b08f8930-084c-4ab7-948b-1f4c8681f36b.svg)](#)
 
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a><br/>
