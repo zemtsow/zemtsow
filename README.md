@@ -18,7 +18,7 @@ Development mode: <a href='https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%B
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Programming language: <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank'>JS</a> / <a href='https://www.typescriptlang.org/' target='_blank'>TS</a><br/>
+Programming language: <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank'>JS</a> / <a href='https://www.typescriptlang.org/' target='_blank'>TS</a> / <a href="https://ru.wikipedia.org/wiki/Python" target='_blank'>Python</a><br/>
 Framework / Library: <a href='https://nodejs.org/' target='_blank'>Node.js</a> / <a href='https://expressjs.com/ru/' target='_blank'>Express</a></br>
 Development mode: <a href='https://en.wikipedia.org/wiki/Frontend_and_backend' target='_blank'>Back-end</a>
 
