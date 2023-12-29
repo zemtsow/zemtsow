@@ -1,8 +1,4 @@
-Hello, I'm a front-end developer
-I started my journey in 2019.
-I write and learn to write code every day, I hope to be useful in some way.
-
-Soon I hope to build my own website where I will store my projects!
+Yo, I’m a front-end developer, currently living in Turkmenistan, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a><br/>
