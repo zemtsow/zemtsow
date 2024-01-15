@@ -1,10 +1,12 @@
 Yo, I’m a front-end developer, currently living in Turkmenistan, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
+My CV <a href="https://zemtsow.github.io">Click here...</a>
+
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a><br/>
 Styles: <a href='https://ru.wikipedia.org/wiki/CSS' target='_blank'>CSS</a> / <a href='https://sass-lang.com/' target='_blank'>SCSS</a> / <a href='https://tailwindcss.com/' target='_blank'>Tailwind</a><br/>
 Programming language: <a href='https://developer.mozilla.org/ru/docs/Web/JavaScript' target='_blank'>JS</a> / <a href='https://www.typescriptlang.org/' target='_blank'>TS</a><br/>
-Framework / Library: <a href='https://react.dev/' target='_blank'>REACT</a> / <a href='https://nextjs.org/' target='_blank'>NextJS</a> / <a href="https://reactnative.dev/">React Native</a><br/>
+Framework / Library: <a href='https://react.dev/' target='_blank'>REACT</a> / <a href='https://nextjs.org/' target='_blank'>NextJS</a> / <a href="https://reactnative.dev/">React Native</a> <br/>
 State Manager: <a href='https://redux.js.org/' target='_blank'>Redux</a> / <a href='https://zustand-demo.pmnd.rs/' target='_blank'>Zustand</a><br/>
 Typography: <a href='https://typetura.com/?v=7516fd43adaa' target="_blank">Typetura</a><br/>
 Storage: <a href="https://de.wikipedia.org/wiki/S3" target="_blank">S3</a> / <a href="https://min.io/" target="_blank">Minio</a><br/>
