@@ -2,6 +2,8 @@ Yo, I’m a front-end developer, currently living in Turkmenistan, working and d
 
 My CV <a href="https://zemtsow.github.io">Click here...</a>
 
+Gu.ru Freelance Profile <a href="https://gu.ru/fl/19aac5e564c04f79a1e6abd4e9b5cf58">Click here...</a>
+
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a><br/>
 Styles: <a href='https://ru.wikipedia.org/wiki/CSS' target='_blank'>CSS</a> / <a href='https://sass-lang.com/' target='_blank'>SCSS</a> / <a href='https://tailwindcss.com/' target='_blank'>Tailwind</a><br/>
