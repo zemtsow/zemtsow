@@ -12,7 +12,7 @@ Framework / Library: <a href='https://react.dev/' target='_blank'>REACT</a> / <a
 State Manager: <a href='https://redux.js.org/' target='_blank'>Redux</a> / <a href='https://zustand-demo.pmnd.rs/' target='_blank'>Zustand</a> / <a href="https://mobx.js.org/README.html">Mobx</a><br/> 
 Typography: <a href='https://typetura.com/?v=7516fd43adaa' target="_blank">Typetura</a><br/>
 Storage: <a href="https://de.wikipedia.org/wiki/S3" target="_blank">S3</a> / <a href="https://min.io/" target="_blank">Minio</a><br/>
-UIkit: <a href='https://mui.com/' target='_blank'>MUI</a> / <a href='https://ant.design/' target='_blank'>ANTD</a> / <a href='https://getbootstrap.com/' target='_blank'>Bootstrap</a><br/>
+UIkit: <a href='https://mui.com/' target='_blank'>MUI</a> / <a href='https://ant.design/' target='_blank'>ANTD</a> / <a href='https://getbootstrap.com/' target='_blank'>Bootstrap</a> / <a href="https://ui.shadcn.com" target="_blank">shadcn/ui</a><br/>
 Web Server: <a href='https://ru.wikipedia.org/wiki/Nginx' target='_blank'>Nginx</a><br/>
 Development mode: <a href='https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4' target='_blank'>Front-end</a>
 
