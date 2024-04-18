@@ -1,6 +1,6 @@
 Yo, I’m a front-end developer, currently living in Turkmenistan, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
-<a href="https://github.com/zemtsow/zemtsow/blob/main/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.jpg">Certificate of completion of the course</a>
+<a href="https://github.com/zemtsow/zemtsow/blob/main/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.jpg">Certificate of completion of the course</a> <br/>
 My CV <a href="https://zemtsow.github.io">Click here...</a>
 
 
