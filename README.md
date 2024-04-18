@@ -1,6 +1,8 @@
 Yo, I’m a front-end developer, currently living in Turkmenistan, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
+<a href="https://github.com/zemtsow/zemtsow/blob/main/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.jpg">Certificate of completion of the course</a>
 My CV <a href="https://zemtsow.github.io">Click here...</a>
+
 
 Gu.ru Freelance Profile <a href="https://gu.ru/fl/19aac5e564c04f79a1e6abd4e9b5cf58">Click here...</a></br>
 Freelance Habr Profile <a href="https://freelance.habr.com/freelancers/zemtsow">Click here...</a> <br/>
