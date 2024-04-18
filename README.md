@@ -3,7 +3,8 @@ Yo, I’m a front-end developer, currently living in Turkmenistan, working and d
 My CV <a href="https://zemtsow.github.io">Click here...</a>
 
 Gu.ru Freelance Profile <a href="https://gu.ru/fl/19aac5e564c04f79a1e6abd4e9b5cf58">Click here...</a></br>
-Freelance Habr Profile <a href="https://freelance.habr.com/freelancers/zemtsow">Click here...</a>
+Freelance Habr Profile <a href="https://freelance.habr.com/freelancers/zemtsow">Click here...</a> <br/>
+Fiverr Profile <a href="https://www.fiverr.com/nick_zemcow?public_mode=true">Click here...</a> <br/>
 
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a> / <a href="https://htmx.org/" target='_blank'>HTMX</a><br/>
