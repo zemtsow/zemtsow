@@ -3,7 +3,7 @@ Yo, I’m a front-end developer, working and developing my front-end skills, and
 <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.pdf">Certificate of completion of the course by JS</a> <br/>
 
 My CV <a href="https://zemtsow.github.io">Click here...</a> <br/>
-View & Download PDF CV <a href="https://github.com/zemtsow/zemtsow/blob/main/CV.pdf">Click here...</a>
+View & Download PDF CV <a href="https://github.com/zemtsow/zemtsow/blob/main/cv.pdf">Click here...</a>
 
 
 Gu.ru Freelance Profile <a href="https://gu.ru/fl/19aac5e564c04f79a1e6abd4e9b5cf58">Click here...</a></br>
