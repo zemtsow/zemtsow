@@ -1,7 +1,5 @@
 Yo, I’m a front-end developer, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
-<a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.pdf">Certificate of completion of the course by JS</a> <br/>
-
 My CV <a href="https://zemtsow.github.io">Click here...</a> <br/>
 
 <b>[SKILLS]:</b><br/>
