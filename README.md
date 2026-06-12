@@ -1,6 +1,7 @@
 Yo, I’m a front-end developer, working and developing my front-end skills, and sometimes writing interesting projects and scripts in different languages...
 
 My own site and cv <a href="https://zemtsow.github.io">Click here...</a> <br/>
+Certificate <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-455b9aca-127a-42a3-bc9e-42eaa62f51bb.pdf">Click here...</a>
 
 <b>[SKILLS]:</b><br/>
 Layout: <a href='https://ru.wikipedia.org/wiki/HTML' target='_blank'>HTML5</a> / <a href="https://htmx.org/" target='_blank'>HTMX</a><br/>
